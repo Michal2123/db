@@ -2,303 +2,63 @@
  "Products": [
     {
       "id": 1,
-      "product": "Truffle Cups - Red",
+      "product": "Tomato",
       "image": "http://dummyimage.com/241x129.png/ff4444/ffffff",
       "price": 10
     },
     {
       "id": 2,
-      "product": "Soup - Campbells, Classic Chix",
+      "product": "Potato",
       "image": "http://dummyimage.com/186x148.bmp/dddddd/000000",
       "price": 6
     },
     {
       "id": 3,
-      "product": "Wine - Casillero Del Diablo",
+      "product": "Carrot",
       "image": "http://dummyimage.com/223x140.jpg/cc0000/ffffff",
       "price": 7
     },
     {
       "id": 4,
-      "product": "Tea - Jasmin Green",
+      "product": "Banana",
       "image": "http://dummyimage.com/245x129.png/5fa2dd/ffffff",
       "price": 1
     },
     {
       "id": 5,
-      "product": "Skewers - Bamboo",
+      "product": "Apple",
       "image": "http://dummyimage.com/177x167.png/cc0000/ffffff",
       "price": 1
     },
     {
       "id": 6,
-      "product": "Ice Cream - Turtles Stick Bar",
+      "product": "Watermelon",
       "image": "http://dummyimage.com/217x242.bmp/ff4444/ffffff",
       "price": 2
     },
     {
       "id": 7,
-      "product": "Nut - Almond, Blanched, Whole",
+      "product": "Brokulin",
       "image": "http://dummyimage.com/118x241.png/cc0000/ffffff",
       "price": 9
     },
     {
       "id": 8,
-      "product": "Bread - Corn Muffaleta Onion",
+      "product": "Orange",
       "image": "http://dummyimage.com/118x163.bmp/dddddd/000000",
       "price": 1
     },
     {
       "id": 9,
-      "product": "Bread - Hot Dog Buns",
+      "product": "Bread",
       "image": "http://dummyimage.com/134x155.jpg/ff4444/ffffff",
       "price": 10
     },
     {
       "id": 10,
-      "product": "Muffin Carrot - Individual",
+      "product": "Water",
       "image": "http://dummyimage.com/231x187.bmp/dddddd/000000",
       "price": 2
-    },
-    {
-      "id": 11,
-      "product": "Island Oasis - Lemonade",
-      "image": "http://dummyimage.com/219x227.bmp/dddddd/000000",
-      "price": 3
-    },
-    {
-      "id": 12,
-      "product": "Tea Peppermint",
-      "image": "http://dummyimage.com/245x160.bmp/ff4444/ffffff",
-      "price": 7
-    },
-    {
-      "id": 13,
-      "product": "Vol Au Vents",
-      "image": "http://dummyimage.com/123x212.png/ff4444/ffffff",
-      "price": 6
-    },
-    {
-      "id": 14,
-      "product": "Soup - Campbells",
-      "image": "http://dummyimage.com/120x172.bmp/cc0000/ffffff",
-      "price": 7
-    },
-    {
-      "id": 15,
-      "product": "Parsley - Dried",
-      "image": "http://dummyimage.com/108x119.jpg/5fa2dd/ffffff",
-      "price": 8
-    },
-    {
-      "id": 16,
-      "product": "Onions Granulated",
-      "image": "http://dummyimage.com/141x132.bmp/ff4444/ffffff",
-      "price": 6
-    },
-    {
-      "id": 17,
-      "product": "Sauce - Mint",
-      "image": "http://dummyimage.com/157x165.bmp/dddddd/000000",
-      "price": 7
-    },
-    {
-      "id": 18,
-      "product": "Cheese - Cheddar, Mild",
-      "image": "http://dummyimage.com/211x248.bmp/ff4444/ffffff",
-      "price": 4
-    },
-    {
-      "id": 19,
-      "product": "Water - Mineral, Carbonated",
-      "image": "http://dummyimage.com/100x166.bmp/dddddd/000000",
-      "price": 9
-    },
-    {
-      "id": 20,
-      "product": "Sugar - Fine",
-      "image": "http://dummyimage.com/218x187.jpg/cc0000/ffffff",
-      "price": 10
-    },
-    {
-      "id": 21,
-      "product": "Table Cloth 54x54 Colour",
-      "image": "http://dummyimage.com/117x181.jpg/5fa2dd/ffffff",
-      "price": 6
-    },
-    {
-      "id": 22,
-      "product": "Salt - Table",
-      "image": "http://dummyimage.com/216x123.png/ff4444/ffffff",
-      "price": 8
-    },
-    {
-      "id": 23,
-      "product": "Ham - Proscuitto",
-      "image": "http://dummyimage.com/204x167.jpg/5fa2dd/ffffff",
-      "price": 1
-    },
-    {
-      "id": 24,
-      "product": "Oil - Canola",
-      "image": "http://dummyimage.com/191x198.bmp/5fa2dd/ffffff",
-      "price": 3
-    },
-    {
-      "id": 25,
-      "product": "Onions - Cippolini",
-      "image": "http://dummyimage.com/102x227.png/ff4444/ffffff",
-      "price": 2
-    },
-    {
-      "id": 26,
-      "product": "Soup - Cream Of Broccoli",
-      "image": "http://dummyimage.com/126x246.png/5fa2dd/ffffff",
-      "price": 10
-    },
-    {
-      "id": 27,
-      "product": "Okra",
-      "image": "http://dummyimage.com/168x121.jpg/5fa2dd/ffffff",
-      "price": 4
-    },
-    {
-      "id": 28,
-      "product": "Basil - Thai",
-      "image": "http://dummyimage.com/129x193.jpg/ff4444/ffffff",
-      "price": 8
-    },
-    {
-      "id": 29,
-      "product": "Garlic - Peeled",
-      "image": "http://dummyimage.com/200x160.bmp/ff4444/ffffff",
-      "price": 3
-    },
-    {
-      "id": 30,
-      "product": "Pasta - Angel Hair",
-      "image": "http://dummyimage.com/236x136.bmp/dddddd/000000",
-      "price": 7
-    },
-    {
-      "id": 31,
-      "product": "Grand Marnier",
-      "image": "http://dummyimage.com/167x250.bmp/ff4444/ffffff",
-      "price": 5
-    },
-    {
-      "id": 32,
-      "product": "Squid Ink",
-      "image": "http://dummyimage.com/169x216.jpg/dddddd/000000",
-      "price": 10
-    },
-    {
-      "id": 33,
-      "product": "Cauliflower",
-      "image": "http://dummyimage.com/125x212.png/cc0000/ffffff",
-      "price": 8
-    },
-    {
-      "id": 34,
-      "product": "Zucchini - Yellow",
-      "image": "http://dummyimage.com/148x124.bmp/5fa2dd/ffffff",
-      "price": 4
-    },
-    {
-      "id": 35,
-      "product": "Sprouts - Corn",
-      "image": "http://dummyimage.com/124x139.png/ff4444/ffffff",
-      "price": 10
-    },
-    {
-      "id": 36,
-      "product": "Vermouth - Sweet, Cinzano",
-      "image": "http://dummyimage.com/234x197.png/dddddd/000000",
-      "price": 3
-    },
-    {
-      "id": 37,
-      "product": "Tart Shells - Sweet, 3",
-      "image": "http://dummyimage.com/228x136.bmp/cc0000/ffffff",
-      "price": 2
-    },
-    {
-      "id": 38,
-      "product": "Bread - Burger",
-      "image": "http://dummyimage.com/176x143.png/dddddd/000000",
-      "price": 5
-    },
-    {
-      "id": 39,
-      "product": "Wine - Jafflin Bourgongone",
-      "image": "http://dummyimage.com/127x111.bmp/cc0000/ffffff",
-      "price": 4
-    },
-    {
-      "id": 40,
-      "product": "Nut - Walnut, Chopped",
-      "image": "http://dummyimage.com/228x147.png/dddddd/000000",
-      "price": 6
-    },
-    {
-      "id": 41,
-      "product": "Gelatine Powder",
-      "image": "http://dummyimage.com/112x228.png/cc0000/ffffff",
-      "price": 5
-    },
-    {
-      "id": 42,
-      "product": "White Fish - Filets",
-      "image": "http://dummyimage.com/172x174.bmp/5fa2dd/ffffff",
-      "price": 1
-    },
-    {
-      "id": 43,
-      "product": "Turkey - Whole, Fresh",
-      "image": "http://dummyimage.com/166x148.bmp/5fa2dd/ffffff",
-      "price": 10
-    },
-    {
-      "id": 44,
-      "product": "Wine - Pinot Noir Latour",
-      "image": "http://dummyimage.com/203x109.jpg/cc0000/ffffff",
-      "price": 3
-    },
-    {
-      "id": 45,
-      "product": "Wine - Alsace Riesling Reserve",
-      "image": "http://dummyimage.com/141x132.png/dddddd/000000",
-      "price": 3
-    },
-    {
-      "id": 46,
-      "product": "Beer - Mcauslan Apricot",
-      "image": "http://dummyimage.com/196x115.jpg/cc0000/ffffff",
-      "price": 4
-    },
-    {
-      "id": 47,
-      "product": "Bacardi Raspberry",
-      "image": "http://dummyimage.com/118x162.png/ff4444/ffffff",
-      "price": 5
-    },
-    {
-      "id": 48,
-      "product": "Wine - Shiraz Wolf Blass Premium",
-      "image": "http://dummyimage.com/130x215.jpg/5fa2dd/ffffff",
-      "price": 9
-    },
-    {
-      "id": 49,
-      "product": "Table Cloth 54x72 White",
-      "image": "http://dummyimage.com/118x179.png/5fa2dd/ffffff",
-      "price": 7
-    },
-    {
-      "id": 50,
-      "product": "Bread - White, Sliced",
-      "image": "http://dummyimage.com/191x188.jpg/dddddd/000000",
-      "price": 7
     }
   ]
 }
